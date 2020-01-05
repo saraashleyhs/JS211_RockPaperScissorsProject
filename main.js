@@ -18,7 +18,7 @@ const rockPaperScissors = (hand1, hand2) => {
   // Use the unit test to see what is expected
 
 }
-
+var mynewVariable = 6;
 // the first function called in the program to get an input from the user
 // to run the function use the command: node main.js
 // to close it ctrl + C
